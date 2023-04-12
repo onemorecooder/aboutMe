@@ -1,0 +1,10 @@
+.iconsDiv {
+  display: flex;
+  padding: 10px;
+}
+
+.footer {
+  width: fit-content;
+  margin: auto;
+  display: flex;
+}
